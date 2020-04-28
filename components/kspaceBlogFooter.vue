@@ -1,6 +1,6 @@
 <template>
   <div class="footer-wrapper">
-    <p>Copyright &copy; 2020 Steg All Rights Reserved.</p>
+    <p>Copyright &copy; 2020 K-SPACE All Rights Reserved.</p>
   </div>
 </template>
 

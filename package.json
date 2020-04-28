@@ -1,7 +1,7 @@
 {
   "name": "K-SPACE-blog",
   "version": "1.0.0",
-  "description": "K-SPACE blogです。DJの様々なhow toや、個人的な感想を自由に書き込んでいます。",
+  "description": "K-SPACEのブログサイトです。DJに関する様々なhow toや、個人的な感想を自由に書き込んでいます。",
   "author": "",
   "private": true,
   "scripts": {

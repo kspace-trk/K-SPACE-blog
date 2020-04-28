@@ -1,0 +1,26 @@
+{
+  "name": "K-SPACE-blog",
+  "version": "1.0.0",
+  "description": "K-SPACE blogです。DJの様々なhow toや、個人的な感想を自由に書き込んでいます。",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.5",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "bootstrap-vue": "^2.9.0",
+    "dayjs": "^1.8.25",
+    "markdown-it": "^10.0.0",
+    "nan": "^2.14.1",
+    "node-gyp": "^6.1.0",
+    "nuxt": "^2.11.0",
+    "terser-webpack-plugin": "^2.3.6",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {}
+}
